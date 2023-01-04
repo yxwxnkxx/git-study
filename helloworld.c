@@ -2,7 +2,6 @@
 
 int main(int argc, char* argv[], char* envp[]) {
 
-    printf("Hello World!");
-    printf("Hello git!");
+    printf("Hello Study");
     return 0;
 }
